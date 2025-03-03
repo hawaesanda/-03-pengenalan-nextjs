@@ -5,3 +5,4 @@
 | Kelas | TI - 3E |
 
 ![Screenshot](assets/SSR.png)
+![Screenshot](assets/SSG.png)
