@@ -6,3 +6,4 @@
 
 ![Screenshot](assets/SSR.png)
 ![Screenshot](assets/SSG.png)
+![Screenshot](assets/Dynamic-routes.png)
